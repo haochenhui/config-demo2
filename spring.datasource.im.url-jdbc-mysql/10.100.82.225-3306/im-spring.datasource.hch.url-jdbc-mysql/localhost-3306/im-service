@@ -1,0 +1,6 @@
+spring.datasource.im.url=jdbc\:mysql\://1ocalhost\:3306/im
+spring.datasource.hch.url=jdbc\:mysql\://localhost\:3306/hch
+spring.datasource.username=root
+spring.datasource.password=123456
+logging.level.org.springframework.web=DEBUG 
+logging.level.org.hibernate=ERROR
